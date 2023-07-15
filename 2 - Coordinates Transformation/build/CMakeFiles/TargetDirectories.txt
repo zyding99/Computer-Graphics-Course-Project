@@ -1,3 +1,0 @@
-/home/graphics/Desktop/HW2/build/CMakeFiles/rebuild_cache.dir
-/home/graphics/Desktop/HW2/build/CMakeFiles/edit_cache.dir
-/home/graphics/Desktop/HW2/build/CMakeFiles/Homework2.dir
