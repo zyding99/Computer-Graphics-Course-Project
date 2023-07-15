@@ -1,2 +1,2 @@
 # Computer Graphics - Course Project
-  This project combines all the course assignments during my university computer graphics course.
+  *Archive* This project combines all the course assignments of my computer graphics course.
